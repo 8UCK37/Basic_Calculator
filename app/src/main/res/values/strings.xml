@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <color name="dark_mode">#302c2c</color>
+</resources>
